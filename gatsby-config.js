@@ -1,39 +1,33 @@
 module.exports = {
   siteMetadata: {
-    site: `Gnonce-starter`,
-    title: `Gatsby Starter Gnonce`,
-    titleTemplate: `%s - Gnonce`,
-    description: `Gatsby + Typescript + Styled Components = 💖`,
+    site: `some-podcasts`,
+    title: `Some Podcasts I Listen To`,
+    titleTemplate: `%s - dave.js`,
+    description: `A collection of podcasts I listen to regularly.`,
     siteUrl: `https://gatsby-starter-gnonce.netlify.com/`,
     language: `en`,
     color: `#003580`,
-    twitter: 'gnonce',
+    twitter: '_davejs',
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `img`,
-        path: `${__dirname}/src/images/`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-routes`,
-      options: {
-        path: `${__dirname}/src/routes.ts`,
+        path: `${__dirname}/src/content/images/`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gnonce`,
-        short_name: `Gnonce`,
+        name: `Some Podcasts I Listen To`,
+        short_name: `Some Podcasts`,
         start_url: `/`,
-        background_color: `#003580`,
-        theme_color: `#003580`,
+        // background_color: `#003580`,
+        // theme_color: `#003580`,
         display: `standalone`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
-        include_favicon: true, // Include favicon
+        include_favicon: true,
       },
     },
     `gatsby-plugin-sitemap`,
@@ -42,5 +36,12 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Montserrat:ital,wght@0,900;1,900`],
+        display: 'swap',
+      },
+    },
   ],
-}
+};

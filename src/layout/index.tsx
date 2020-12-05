@@ -1,21 +1,21 @@
-import React, { ReactChild } from 'react'
-import styled, { ThemeProvider } from 'styled-components'
+import React, { ReactChild } from 'react';
+import styled, { ThemeProvider } from 'styled-components';
 
-import theme from '../styles/theme'
-import GlobalStyles from '../styles/globalStyles'
+import theme from '../styles/theme';
+import GlobalStyles from '../styles/globalStyles';
 
-import Head from '../components/Head'
+import Head from '../components/Head';
 
 interface ILayoutProps {
-  children: ReactChild
+  children: ReactChild;
   location: {
-    pathname: string
-  }
+    pathname: string;
+  };
 }
 
 const Wrapper = styled.div`
   display: flex;
-`
+`;
 
 export default ({ children, location }: ILayoutProps) => {
   return (
@@ -24,5 +24,5 @@ export default ({ children, location }: ILayoutProps) => {
       <Head pathname={location.pathname} />
       <ThemeProvider theme={theme}>{children}</ThemeProvider>
     </Wrapper>
-  )
-}
+  );
+};

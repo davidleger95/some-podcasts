@@ -1,0 +1,156 @@
+- name: Review Revue
+  host: Reilly Anspaugh & Geoffrey James
+  artwork: '/review-revue.jpeg'
+  coverImage:
+    src: '/review-revue-cover.jpg'
+    alt: Jeff and Reilly posing in front of a brick wall
+  theme:
+    primaryColor: '#A91E25'
+    accentColor: '#F7F0DD'
+    textColor: '#F7F0DD'
+  about: |
+    Have you ever browsed online reviews, trying to figure out if a product is good or not, only to come across an absolute gem of a review, or one that was just so unbelievably hilarious that it had you laughing for days? Online reviews have become a canvas for people to air their grievances, share wholesome experiences, or just shitpost for the entertainment of others.
+
+    Each week, Reilly and Geoffrey present us some of the most wholesome and hilarious reviews infused with improv comedy. The podcast also has a range of celebrity guest hosts including Finn Wolfhart (Stranger Things) and <some commedian>.
+
+    An added bonus to this show is the 110% effort Reilly and Geoffrey put into their ad reads for the weirdest products to sponsor a podcast. Never have I been more entertained by an ad for windshield wipers and automotive oil filters.
+  featuredEpisode:
+    id: 2BPPgtdDLupU6AZkeS5ttS
+    about: ''
+- name: Cautionary Tales
+  host: Tim Harford
+  artwork: '/cautionary-tales.png'
+  coverImage:
+    src: '/cautionary-tales-cover.jpg'
+    alt: Tim Harford
+  theme:
+    primaryColor: '#745225'
+    accentColor: '#F19913'
+    textColor: '#F19913'
+  about: |
+    Commodo cursus magna, vel scelerisque nisl consectetur et. Fusce
+    dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
+    massa justo sit amet risus. Aenean eu leo quam. 
+
+    Pellentesque ornare sem lacinia
+    quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl
+    consectetur et. Curabitur blandit tempus porttitor. Vestibulum id ligula porta
+    felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum
+    nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis
+    interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+    Aenean lacinia bibendum nulla sed consectetur. 
+
+    Vivamus sagittis lacus vel augue
+    laoreet rutrum faucibus dolor auctor. Maecenas sed diam eget risus varius blandit
+    sit amet non magna. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer
+    posuere erat a ante venenatis dapibus posuere velit aliquet. Cras mattis
+    consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+    Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac
+    facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat
+    porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue
+    laoreet rutrum faucibus dolor auctor. '
+  featuredEpisode:
+    id: 0WVyQZct3FL3gsFGoaA2SE
+    about: ''
+- name: The Anthropocene Reviewed
+  host: John Green
+  artwork: '/anthropocene-reviewed.png'
+  coverImage:
+    src: '/anthropocene-reviewed-cover.jpg'
+    alt: John Green
+  theme:
+    primaryColor: '#16194A'
+    accentColor: '#F426AC'
+    textColor: '#FFFFFF'
+  about: |
+    The current geological time period is known as the Anthropocene. Beginning in 10,000 BCE, it’s the period in which humans have shaped the Earth to our desires in ways which are honestly god-like. For better or worse, we’ve left more than our fair share of marks on this planet. 
+
+    Hosted by John Green — best-selling author of _The Fault in Our Stars_ and _Paper Towns_, among others — this podcast reviews different facets of our human-centred planet and rates them on a five-star scale.  _The Anthropocene Reviewed_ showcases John’s talent as a writer, but this time in a non-fiction context.
+
+    > John crafts melancholic narratives that make the scarred moments of his life beautiful, and the beautiful moments even more beautiful.
+
+    Conforming such complex topics as _our capacity for wonder_ into such a simplistic rating system is both naive and satisfying. All the nuance and messiness, the beauty and the ugliness, reduced to a mere number. However, John pours his passion into his reviews, presenting them as deeply personal memoirs. John crafts melancholic narratives that make the scarred moments of his life beautiful, and the beautiful moments even more beautiful. By the time he gets to the end of the story, his final rating seems almost inconsequential. And that’s kind of the point.
+
+    John, I give _The Anthropocene Reviewed_ five stars.
+  featuredEpisode:
+    id: 1MD4QeoLUvvv2a093NuhOn
+    title: Capacity for Wonder and Sunsets
+    description: |
+      John Green reviews humanity's capacity for wonder and sunsets.
+- name: Potterless
+  host: Mike Schubert
+  artwork: '/potterless.jpg'
+  coverImage:
+    src: '/potterless-cover.jpg'
+    alt: Mike posing on stage in front of a 'Wizard On!' logo
+  theme:
+    primaryColor: '#FFFFEF'
+    accentColor: '#16194A'
+    textColor: '#16194A'
+  about: |
+    Have you ever been so over-exposed to something that you’ve largely forgotten what it was like to experience it for the first time? After awhile, even the most entertaining stories can get stale. Sometimes it makes you wish you could obliviate yourself just so you can re-discover it and experience that initial joy yet again.
+
+    > Most nineties kids grew up being force-fed the Harry Potter series. Still a rare few somehow managed to evade it.
+
+    Most nineties kids grew up being force-fed the Harry Potter series. Still a rare few somehow managed to evade it. Mike Schubert is one of those rare few. When Mike began _Potterless_ he was a man in his mid-twenties who had never experienced the Harry Potter series. However since then, he has powered through all of the books, movies, and some fan-made content such as A Very Potter Musical and Potter Puppet Pals. He has even suffered through the cringe fest known as _Harry Potter and the Cursed Child_.  One hundred and fifty one episodes in (and still counting), Mike now considers himself a full-blown Potterhead.
+
+    Throughout his journey into the wizarding world, Mike helps us relive our childhood memories of experiencing Harry Potter for the first time, but through the eyes of an adult. Each episode he is joined by a guest who is well-versed in Harry Potter who provide (spoiler-free) context. His recaps, hilarious hot takes, and excited speculation about what’s to come will give you a whole new perspective on the series. This is one I think both casual and hardcore fans of Harry Potter will enjoy.
+  featuredEpisode:
+    id: 1MD4QeoLUvvv2a093NuhOn
+    about: ''
+- name: Reply All
+  host: Alex Goldman, PJ Vogt & Emmanuel Dzotsi
+  artwork: '/reply-all.jpg'
+  coverImage:
+    src: '/reply-all-cover.jpg'
+    alt: Alex and PJ laughing
+  theme:
+    primaryColor: '#C73870'
+    accentColor: '#F49F5A'
+    textColor: '#F3F3F1'
+  about: |
+    The Internet has quickly become a centrepiece of our rapidly changing society. We’ve left the dark ages of dial-up and have been thrust into this brave new world filled with dank memes, digital crime, Elon Musk shitposting on Twitter, and so much more. The Internet is exciting and terrifying. It brings us together in some ways but divides us in others. It’s a confounding paradox we live with every day, making it nearly impossibly to get our bearings and understand what’s going on around us.
+
+    > The Internet is both exciting and terrifying. It brings us together in some ways but divides us in others.
+
+    _Reply All_ is a show about the Internet. It explores weird and interesting Internet phenomena -- phishing schemes, robocalls, cryptocurrency, you name it! Each episode, hosts PJ Voigt and Alex Goldman (and recently Emmanuel Dzotsi), dive deep down rabbit holes which are seemingly bottomless exploring some of the web's strangest aspects. How was the Incel community started? How do tech support scammers operate? What’s the deal with drop-shipping?
+
+    Demonstrating some amazing feats of investigative journalism, _Reply All_ answers our toughest questions about the Internet with stories that will blow your mind. Even as a software engineer, I’m often surprised by what I learn from this show. If you want to up your Internet savviness, _Reply All_ is the show for you.
+  featuredEpisode:
+    id: 0CaOGo6xSN51B2aLAQa1kU
+    title: The Case of the Missing Hit
+    description: |
+      A man in California is haunted by the memory of a pop song from his youth.
+      He can remember the lyrics and the melody. But the song itself has vanished,
+      completely scrubbed from the internet. PJ takes on the Super Tech Support case.
+- name: S-Town
+  host: Brian Reed
+  artwork: '/s-town.jpg'
+  coverImage:
+    src: '/s-town-cover.jpg'
+    alt: Man with tattoos and pierced nipples relaxing in the woods
+  theme:
+    primaryColor: '#2E2422'
+    accentColor: '#D1AC5E'
+    textColor: '#EFE7D4'
+  about: |
+    Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce
+    dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
+    massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia
+    quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl
+    consectetur et. Curabitur blandit tempus porttitor. Vestibulum id ligula porta
+    felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum
+    nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis
+    interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+    Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue
+    laoreet rutrum faucibus dolor auctor. Maecenas sed diam eget risus varius blandit
+    sit amet non magna. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer
+    posuere erat a ante venenatis dapibus posuere velit aliquet. Cras mattis
+    consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+    Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac
+    facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat
+    porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue
+    laoreet rutrum faucibus dolor auctor.'
+  featuredEpisode:
+    id: 1MD4QeoLUvvv2a093NuhOn
+    about: ''

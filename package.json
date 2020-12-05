@@ -1,7 +1,7 @@
 {
-  "name": "gnonce-gatsby",
+  "name": "some-podcasts",
   "version": "1.0.1",
-  "description": "Gatsby Starter Gnonce",
+  "description": "Some Podcasts I Listen To",
   "private": true,
   "scripts": {
     "build": "gatsby build",
@@ -10,18 +10,21 @@
     "lint": "tslint 'src/**/*.{ts,tsx}'",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "codegen": "graphql-codegen",
+    "codegen:watch": "graphql-codegen --watch"
   },
   "dependencies": {
     "@types/react": "^16.9.44",
     "@types/react-dom": "^16.9.8",
     "@types/react-helmet": "^5.0.16",
     "@types/styled-components": "^4.4.3",
+    "framer-motion": "^2.9.5",
     "gatsby": "^2.24.85",
     "gatsby-image": "^2.4.14",
+    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.21",
     "gatsby-plugin-react-helmet": "^3.3.10",
-    "gatsby-plugin-routes": "^1.0.0",
     "gatsby-plugin-sharp": "^2.6.24",
     "gatsby-plugin-sitemap": "^2.4.11",
     "gatsby-plugin-styled-components": "^3.3.10",
@@ -34,6 +37,9 @@
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
+    "@graphql-codegen/cli": "^1.19.4",
+    "@graphql-codegen/typescript": "^1.19.0",
+    "@graphql-codegen/typescript-operations": "^1.17.12",
     "@typescript-eslint/eslint-plugin": "^4.5.0",
     "@typescript-eslint/parser": "^4.5.0",
     "eslint": "^7.12.0",
